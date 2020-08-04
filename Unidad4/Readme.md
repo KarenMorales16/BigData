@@ -1,6 +1,6 @@
 <table>
  <td style="font-size:50% ;font-family: Times New Roman"; align="center" colspan="2">
-   <h2>BigData Final Project</h2>
+   <h2>BigData</h2>
 Departamento de sistemas y computación
 <br>
 Instituto Tecnológico de Tijuana
